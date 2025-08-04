@@ -37,12 +37,6 @@ Telecom-Churn-Dashboard/
 
 ---
 
-## 📷 Dashboard Preview
-
-![Churn Dashboard](screenshots/dashboard_overview.png)
-
----
-
 ## 📊 Insights & Takeaways
 
 - Customers with **month-to-month contracts** are most likely to churn.
